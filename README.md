@@ -15,6 +15,7 @@
 - Resistor 4,7k ohm
 
 **Wiring to Raspberry Pi**
+
 You can see the wiring diagram below
 ![Wiring Diagram](https://raw.githubusercontent.com/MuhammadNauvalDwiAfandi/sic-ta-w5/master/wiringDiagram.jpg)
 
