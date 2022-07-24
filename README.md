@@ -23,9 +23,9 @@ Here's detailed information about wiring diagram:
 
 |DS18B20|Raspberry Pi  |
 |--|--|
-|GND (Black wire) |Raspberry Pi GND |
-|DQ (Yellow wire)|Raspberry Pi GPIO 17|
-|VDD (Red wire)|Resistor 4,7k ohm|
+|GND  |Raspberry Pi GND |
+|DQ |Raspberry Pi GPIO 17|
+|VDD |Resistor 4,7k ohm|
 |Resistor|Raspberry Pi 3v3|
 
 **Enable 1-Wire**
